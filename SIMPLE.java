@@ -11,7 +11,7 @@ public class SIMPLE {
 			bw.write("hello world this is Qasim \n jenkins github connection fine \n we are in year 2022 \n adition of x and y is " + z);
 			bw.write("\n gitbub triggered hey this is chnage  ");
 			bw.write("\n change today ");
-			bw.write("\n this is presentation intern ");
+			bw.write("\n this is presentation intern2 ");
 			bw.close();
 		} catch (Exception ex) {
 			return;
